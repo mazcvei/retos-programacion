@@ -1,5 +1,5 @@
 # Reto #30: El teclado T9
-#### Dificultad: Media | Publicación: 24/07/23 | Corrección: 31/07/23
+#### Dificultad: Media | Publicación: 24/07/23 
 
 ## Enunciado
 
